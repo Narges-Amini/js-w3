@@ -1,3 +1,4 @@
+//Item array removal
 const names = [
   "Peter",
   "Ahmad",
@@ -15,3 +16,4 @@ console.log(names.indexOf("Ahmad"));
 names.splice(1, 1);
 console.log(names);
 // Code done
+//
